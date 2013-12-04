@@ -1,0 +1,13 @@
+#Wed Jun 12 19:57:29 IST 2013
+luke.fontsize=12
+luke.analyzer=org.apache.lucene.analysis.KeywordAnalyzer
+luke.fontname=sansserif.plain
+luke.mru.5=C\:\\apache-tomcat-7.0.27\\webapps\\local.coolibar.com\\ROOT\\WEB-INF\\lucene\\build
+luke.mru.4=C\:\\apache-tomcat-7.0.27\\webapps\\local.coolibar.com\\ROOT\\WEB-INF\\lucene\\main
+luke.mru.3=C\:\\Users\\admin\\Desktop
+luke.mru.2=C\:\\Users\\admin\\Desktop\\staging\\search-indexes\\main
+luke.mru_size=10
+luke.mru.1=C\:\\Users\\admin\\Desktop\\lucene of my local\\main
+luke.mru.0=C\:\\Users\\admin\\Desktop\\Prod1\\search-indexes\\main
+\\Users\\admin\\Desktop\\lucene=of my local\\main
+luke.theme=0
